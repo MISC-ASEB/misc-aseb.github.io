@@ -1,0 +1,53 @@
+{
+  "Core": [
+    {
+      "name": "B U Naveen Raj",
+      "role": "President",
+      "id": "BL.EN.U4CSE22209",
+      "image": "https://placehold.co/200x200",
+      "social": {
+        "instagram": "https://instagram.com/naveen",
+        "facebook": "https://facebook.com/naveen",
+        "linkedin": "https://linkedin.com/in/naveen",
+        "whatsapp": "https://wa.me/1234567890"
+      },
+      "mlsa": true
+    },
+    {
+      "name": "Nishith P",
+      "role": "Vice President",
+      "id": "BL.EN.U4CSE22138",
+      "image": "https://placehold.co/200x200",
+      "social": {
+        "instagram": "https://instagram.com/nishith",
+        "github": "https://github.com/nishith",
+        "linkedin": "https://linkedin.com/in/nishith"
+      },
+      "mlsa": true
+    }
+  ],
+  "Technical": [
+    {
+      "name": "Shivram Mohan",
+      "role": "Technical Lead",
+      "id": "BL.EN.U4EAC22049",
+      "image": "https://placehold.co/200x200",
+      "social": {
+        "github": "https://github.com/shivram",
+        "linkedin": "https://linkedin.com/in/shivram"
+      }
+    }
+  ],
+  "Non-Technical": [
+    {
+      "name": "Pothamsetti Sai Srujan Reddy",
+      "role": "Treasurer",
+      "id": "BL.EN.U4CSE22275",
+      "image": "https://placehold.co/200x200",
+      "social": {
+        "instagram": "https://instagram.com/srujan",
+        "facebook": "https://facebook.com/srujan"
+      }
+    }
+  ]
+}

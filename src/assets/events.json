@@ -1,0 +1,35 @@
+{
+  "past_events": [
+    {
+      "image": "Ignite Session - 1_inauguration.jpg",
+      "title": "Ignite Session - Inauguration",
+      "description": "The grand opening session marking the start of the Ignite series."
+    },
+    {
+      "image": "PrisonCTF Participants Photo.jpg",
+      "title": "PrisonCTF Participants",
+      "description": "A memorable moment with participants of the PrisonCTF event."
+    },
+    {
+      "image": "PrisonCTF n AI Artistry.jpg",
+      "title": "PrisonCTF and AI Artistry",
+      "description": "An event combining AI Artistry and the PrisonCTF challenge."
+    },
+    {
+      "image": "Python_for_ml.jpeg",
+      "title": "Python for Machine Learning",
+      "description": "A workshop exploring Python's capabilities for ML applications."
+    },
+    {
+      "image": "Reactor Program.jpg",
+      "title": "Reactor Program",
+      "description": "An engaging session conducted as part of the Reactor Program."
+    },
+    {
+      "image": "Spootacular_Solutions_Hackathon.jpg",
+      "title": "Spootacular Solutions Hackathon",
+      "description": "A hackathon filled with creativity and innovative solutions."
+    }
+  ],
+  "upcoming_events": []
+}
