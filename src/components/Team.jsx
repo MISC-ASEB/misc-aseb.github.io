@@ -89,7 +89,7 @@ const Team = () => {
       id="team"
       className="py-20 px-4 bg-gradient-to-b from-[#B366FF]/5 to-transparent"
     >
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-6xl mx-auto justify-center items-center flex flex-col">
         {/* <Title2 block as="h2" className="mb-12 text-center text-3xl font-bold">
           Our Team
         </Title2> */}
@@ -106,20 +106,20 @@ const Team = () => {
               {members.map((member, index) => (
                 <Card
                   key={index}
-                  className="overflow-hidden transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-lg"
+                  className="overflow-hidden transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-lg max-w-[400px]"
                 >
                   <CardPreview>
                     <Image
                       src={member.image}
                       alt={member.name}
-                      className="w-full h-64 object-cover"
+                      className="w-full h-64 object-cover max-w-[400px] max-h-[400px]"
                     />
                   </CardPreview>
                   <CardHeader
                     header={
                       <div className="flex flex-row w-full justify-between items-center">
-                        <Body1 weight="semibold" className="text-lg">
-                          {member.name}
+                        <Body1 weight="semibold" className="text-lg" style={{ textTransform: "capitalize" }}>
+                          {member.name.toLowerCase()}
                         </Body1>
                         {member.mlsa && (
                           <Badge appearance="outline">
