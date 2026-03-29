@@ -31,5 +31,13 @@
       "description": "A hackathon filled with creativity and innovative solutions."
     }
   ],
-  "upcoming_events": []
+  "upcoming_events": [
+    {
+      "image": "MSpectra.jpeg",
+      "title": "MSpectra Hackathon 2026",
+      "date": "April 3-4, 2026",
+      "description": "Amrita Bengaluru's premier 48-hour Augmented Engineering hackathon. Compete for a ₹54,000+ prize pool, solve real-world startup challenges, and pitch to industry experts.",
+      "event_url": "https://mspectra.in"
+    }
+  ]
 }
